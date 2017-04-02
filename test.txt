@@ -1,1 +1,2 @@
 This is new test file to add into GitHub at 4/2/2017
+This line added to midify file to make sure it can occur on Github
